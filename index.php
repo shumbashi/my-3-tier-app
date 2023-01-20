@@ -1,5 +1,5 @@
 <?php
 
-echo "App Server on " . $_SERVER['SERVER_ADDR'] . " running version 1.0.5\n";
+echo "App Server on " . $_SERVER['SERVER_ADDR'] . " \trunning version 1.0.5\n";
 
 ?>
